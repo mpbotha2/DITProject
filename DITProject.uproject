@@ -12,11 +12,11 @@
 			]
 		},
 		{
-			"Name": "MotionTrajectory",
+			"Name": "PoseSearch",
 			"Enabled": true
 		},
 		{
-			"Name": "PoseSearch",
+			"Name": "GPULightmass",
 			"Enabled": true
 		}
 	],
